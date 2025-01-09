@@ -40,3 +40,4 @@ providing insights into the market dominance of specific brands.
 9. Visualization: Tree map
 10. Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering
 insights into consumer preferences and popular models in the market.
+![WhatsApp Image 2025-01-09 at 16 52 53_c5e62d06](https://github.com/user-attachments/assets/f76f79b6-6321-4a9b-b2f7-a2e964d219a4)
